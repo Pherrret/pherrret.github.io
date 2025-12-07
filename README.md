@@ -4,20 +4,21 @@ This portfolio was started for a class in my freshman year, but I hope it also b
 
 # Project 3
 Something I really cared about, learned about RSS feeds
-<img width="244" height="231" alt="dugk" src="https://github.com/user-attachments/assets/0dab4a70-4972-4648-8e4a-855b0d1dd681" />
+<img width="1919" height="906" alt="Project 3 Picture" src="https://github.com/user-attachments/assets/1c9a73dd-82bb-4b8e-96ef-3bc011eb9e4f" />
 
 # Composition Creator 3.0
 Earleir project, staged design
-<img width="244" height="231" alt="dugk" src="https://github.com/user-attachments/assets/0dab4a70-4972-4648-8e4a-855b0d1dd681" />
+[annotated-Make A Stew.png.pdf](https://github.com/user-attachments/files/24017883/annotated-Make.A.Stew.png.pdf)
 
 # Code Converter
 Using CSS, cohesive design
-<img width="244" height="231" alt="dugk" src="https://github.com/user-attachments/assets/0dab4a70-4972-4648-8e4a-855b0d1dd681" />
+[annotated-Morse.png.pdf](https://github.com/user-attachments/files/24017885/annotated-Morse.png.pdf)
 
 # Rubber Duck Guessing Game (JavaScript)
 Fun art and first implementation of a "game"
 <img width="244" height="231" alt="dugk" src="https://github.com/user-attachments/assets/0dab4a70-4972-4648-8e4a-855b0d1dd681" />
+[annotated-Screenshot 2025-10-27 141608.png.pdf](https://github.com/user-attachments/files/24017895/annotated-Screenshot.2025-10-27.141608.png.pdf)
 
 # RGB Breadboard
 Loved the program, was fun being organized
-<img width="244" height="231" alt="dugk" src="https://github.com/user-attachments/assets/0dab4a70-4972-4648-8e4a-855b0d1dd681" />
+![Breadboard](https://github.com/user-attachments/assets/9cd148fd-5757-4c0c-83fa-32251d0d4817)
